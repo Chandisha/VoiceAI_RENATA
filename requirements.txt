@@ -1,0 +1,1 @@
+torchnumpydatasetssentence-transformersfaiss-cputqdmtransformerslibrosagttsfastapiuvicornpython-multipartbitsandbytes
